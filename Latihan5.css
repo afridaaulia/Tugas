@@ -73,7 +73,7 @@ a.active,a:hover{
     letter-spacing: 1,6px;
     text-align: center;
     border-style: dotted;
-    background-image: url('Latihan/Images/pink.jpg');
+    background-image: url('.Images/pink.jpg');
 }
 .p2{
     font-size: 40px;
